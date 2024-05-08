@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ar-kt02
-- 👀 Let's build
+- Let's build !
 
 <!---
 ar-kt02/ar-kt02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
